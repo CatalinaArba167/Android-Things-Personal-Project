@@ -6,6 +6,10 @@
 
 # Schematics
 
+![Frantic Jaiks](https://github.com/CatalinaArba167/Android-Things-Personal-Project/assets/139768671/357767b4-87d9-4d7c-aa6c-e5754a4629b2)
+
+
+
 
 # Pre-requisites
 - Arduino Board: An Arduino Uno is recommended for beginners due to its ease of use and wide support.
