@@ -1,13 +1,13 @@
 # Android-Things-Personal-Project
 # 
 
-#Screenshots
+# Screenshots
 - https://www.youtube.com/watch?v=gj-H_agfd6U
 
-#Schematics
+# Schematics
 
 
-#Pre-requisites
+# Pre-requisites
 - Arduino Board: An Arduino Uno is recommended for beginners due to its ease of use and wide support.
 - Piezo Buzzer: This acts as the output device for playing the melody.
 - Push Button: Used to start the melody. When pressed, the Arduino will play "Baby Shark."
@@ -16,9 +16,9 @@
 - USB Cable: To connect the Arduino to your computer for programming and power.
 
 
-#Setup and Build
+# Setup and Build
 
 
-#Running
+# Running
 
 
