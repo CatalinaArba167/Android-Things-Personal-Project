@@ -31,12 +31,14 @@
   - Select the board (Arduino 1R3)  and the port (COM3)
   - Upload the code on the board
  
--Hardware part
+- Hardware part
   - Build the circuit on the breadboard and connect the components exactly as in the picture from above
 
 - The project is ready to be tested
 
 
 # Running
+
+-It is enough to push the button from the breadfoard to start the sequence
 
 
